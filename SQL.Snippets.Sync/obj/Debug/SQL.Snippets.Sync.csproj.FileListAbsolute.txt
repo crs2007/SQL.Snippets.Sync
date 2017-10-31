@@ -1,0 +1,9 @@
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\SQL.Snippets.Sync.exe.config
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\SQL.Snippets.Sync.exe
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\SQL.Snippets.Sync.pdb
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\Newtonsoft.Json.xml
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\obj\Debug\SQL.Snippets.Sync.csprojResolveAssemblyReference.cache
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\obj\Debug\SQL.Snippets.Sync.exe
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\obj\Debug\SQL.Snippets.Sync.pdb
+D:\Backup\Projects\SQL.Snippets.Sync\SQL.Snippets.Sync\bin\Debug\Config.json
